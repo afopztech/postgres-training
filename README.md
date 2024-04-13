@@ -6,3 +6,4 @@ The following topics will be thought.
 - Module02 - Jenkins
 - Module03 - Terraform
 - Module04 - Kubernetes
+- Module05 - Docker
